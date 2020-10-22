@@ -1,3 +1,10 @@
+# `APP LIVE`
+  - [iMessage](https://imessage-app-bd585.web.app/) 
+    
+# `SNEAKY PEAK`
+  - ![iMessage Snekay Peak](https://github.com/Kabi4/i-Message/blob/main/SneakyPeak.png)  
+  
+# `BUILD INFO`
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
