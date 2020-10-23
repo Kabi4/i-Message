@@ -1,0 +1,10 @@
+.sidebarrooms{
+    overflow: overlay;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none;
+}
+
+.sidebarrooms::-webkit-scrollbar{
+    display: none;
+}

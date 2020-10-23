@@ -1,0 +1,25 @@
+.sidebarroom{
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid lightgray;
+    transition: all 0.2s ease-in;
+    cursor: pointer;
+}
+
+.sidebarroom:hover{
+    color: white;
+    background-color: #3e93fd;
+}
+
+.sidebarroom__info{
+    margin-left: 1.5rem;
+    position: relative;
+    width: 100%;
+}
+
+.sidebarroom__info > small{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
